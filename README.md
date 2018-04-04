@@ -29,3 +29,5 @@ Initialize a React project with styled-components.
 
 #### 12. Your project should look like this, you are ready to code.
 ![enter image description here](https://media.discordapp.net/attachments/129015431913668608/431075946242506752/5383c875f9fa9eabb15117c2dd3797a1.png)
+
+To run your React project run **yarn start** and do not forget to **yarn install** after cloning your project.
